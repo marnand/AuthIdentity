@@ -1,7 +1,7 @@
 # AuthIdentity 
 # Autenticação e autorização com Identity, Jwt e AutoMapping
 
-API RESTful de login, arquitetura em camadas com DDD, injeção de dependência e entity frameworkCore. 
+API RESTful de login, arquitetura em camadas com DDD, injeção de dependência e entity frameworkCore.
 Este projeto utiliza .NET 5 versão SDK 5.0.403. 
 
 DDD em .NET: <br />
